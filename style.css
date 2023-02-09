@@ -1,9 +1,12 @@
 /* common css */
 
 *{
-    margin: 0;
+    margin: 0 ;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: auto;
 }
 /* ------------------ */
 
@@ -109,4 +112,37 @@
     height: 202.96px;
     padding-top: 25px;
 }
+/* banner section starts here */
 
+.banner-section{
+    background-image: url(images/gradient1.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    margin-left: 174px;
+    }
+    .banner-text{
+        font-weight: 700;
+        font-size: 40px;
+        color: #FFFFFF;
+    }
+    .banner-btn{
+        Width: 109px;
+        Height: 40px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 4px 4px 0px #00000040;
+        border: none;
+        border-radius: 3px;
+        color: #005FAC;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+    }
+   
+    .banner-items{
+        margin-left: 64px;
+        padding-top: 59px;
+
+    }
