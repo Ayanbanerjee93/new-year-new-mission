@@ -15,6 +15,7 @@
     background-size: cover;
     width: 1600px;
     height: 808px;
+    margin-bottom: 131px;
 }
 
 .header-captions{
@@ -58,3 +59,54 @@
     margin-left: 1350px;
     margin-top: 43px;
 }
+/* main section starts here */
+.my-bio-section{
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    margin-left:273px ;
+    margin-right: 255px;
+    
+}
+.my-bio-header{
+    padding-top: 250px;
+    padding-left: 87px;
+}
+.my-bio-img{
+    Width:569px;
+    Height:723.3px;
+}
+.my-bio-captions{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+.my-bio-para{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+/*----------------------------------------------- my plans section */
+.my-plans{
+   text-align: center;
+   margin-top: 80px;
+   margin-top: 80px;
+   margin-bottom: 30px;
+   
+}
+.my-plans-header{
+    font-weight: 700;
+    font-size: 40px;
+}
+.my-plans-image-sec{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 172px;
+    margin-right: 229px;
+    width: 1141px;
+    height: 202.96px;
+    padding-top: 25px;
+}
+
