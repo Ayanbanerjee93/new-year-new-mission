@@ -1,4 +1,4 @@
-/* common css */
+/*--------------------------------------------------------- common css */
 
 *{
     margin: 0 ;
@@ -8,9 +8,9 @@
 body{
     margin: auto;
 }
-/* ------------------ */
+/* ------------------------------------------------------------------------ */
 
-/* header starts here */
+/*--------------------------------------------------------- header starts here */
 .header{
     background-image: url('images/banner/banner3.png');
     background-position: center;
@@ -62,7 +62,7 @@ body{
     margin-left: 1350px;
     margin-top: 43px;
 }
-/* main section starts here */
+/* ------------------------------------------------main section starts here */
 .my-bio-section{
     display: flex;
     width: 1072px;
@@ -91,7 +91,11 @@ body{
     font-size: 16px;
     line-height: 26px;
 }
-/*----------------------------------------------- my plans section */
+.fa-solid{
+    color: #16D887;
+    font-size: small;
+}
+/*------------------------------------------------------ my plans section */
 .my-plans{
    text-align: center;
    margin-top: 80px;
@@ -146,7 +150,7 @@ body{
         padding-top: 59px;
 
     }
-    /* main and banner ends here */
+    /* ---------------------------------main and banner ends here------------------- */
 
 /* ----------------------------------------Footer starts here---------------------- */
 
@@ -205,5 +209,8 @@ input{
     font-weight: 600;
     
 }
+
+
+/*============================================ footer ends here ===================================*/
 
    
