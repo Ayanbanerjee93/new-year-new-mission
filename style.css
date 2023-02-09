@@ -1,0 +1,60 @@
+/* common css */
+
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/* ------------------ */
+
+/* header starts here */
+.header{
+    background-image: url('images/banner/banner3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1600px;
+    height: 808px;
+}
+
+.header-captions{
+    /* background-color: green; */
+    width: 600px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    margin-left: 845px;
+    padding-top: 216px;
+    margin-right: 230px;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 50px;
+    line-height: 76px;
+    text-align: right;
+}
+.header-paragraph{
+    margin-top: 24px;
+    margin-Left: 967px;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #FFFFFF;
+}
+.header-btn{
+    Width: 109px;
+    Height: 40px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border: none;
+    border-radius: 3px;
+    color: #005FAC;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 1350px;
+    margin-top: 43px;
+}
