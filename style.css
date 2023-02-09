@@ -146,3 +146,64 @@ body{
         padding-top: 59px;
 
     }
+    /* main and banner ends here */
+
+/* ----------------------------------------Footer starts here---------------------- */
+
+footer{
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    margin-top: 131px;
+    background-color: #151414;
+}
+.footer-flex-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-header{
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+}
+.footer-para{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.footer-icons{
+    margin-top: 32px;
+   
+}
+.footer-future-sec{
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2781.96px;
+    padding-top: 128px;
+
+}
+.footer-btn{
+    width: 164px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: #005FAC;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+.subscribe-sec{
+    padding-top: 128px;
+}
+input{
+    padding: 15px;
+    width: 300px;
+    background-color:#151414;
+    border: 0.5px solid white;
+    border-radius: 8px;
+    color: #F8F8F8;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+   
